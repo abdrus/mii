@@ -13,10 +13,6 @@
 - Список 2
 - Список 3
 
-1. qq
-1. 22
-1. 33
-
 [Google](http://google.com)
 
 ```php
@@ -35,10 +31,3 @@ class MyClass {
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
-
----
-
-текст
-
----
-текст
