@@ -1,0 +1,13 @@
+h1 {
+    color:green;
+    font-size: 72pt;
+}
+
+.myClass {
+    padding-top: 300px;
+}
+
+#myButton {
+    background-color: blue;
+    color: white;
+}
