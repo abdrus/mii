@@ -1,5 +1,9 @@
+body {
+    font-family: 'Lobster';
+}
+
 h1 {
-    color:green;
+    color: yel;
     font-size: 72pt;
 }
 
@@ -10,4 +14,14 @@ h1 {
 #myButton {
     background-color: blue;
     color: white;
+}
+
+h3, p, li {
+    text-decoration: underline;
+}
+
+.demo {
+    margin:  0px 10px 20px 30px;
+    padding: 40px;
+    border: 5px dashed red;
 }

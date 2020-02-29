@@ -1,0 +1,21 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.ospu_logo {
+    margin: 25px auto;
+    display: block;
+}
+
+.header_text {
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu {
+    padding-left: 0;
+}
